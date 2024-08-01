@@ -41,7 +41,7 @@ namespace RestClientApp
             {
                 //se enviar acceso para generar el token
                 var requestBody = new StringContent(
-                    "{\"rut\": \"96570750-6\", \"passwordKey\": \"d8rSIUNYwla2\"}",
+                    "{\"rut\": \"1-9\", \"passwordKey\": \"\"}",
                     Encoding.UTF8,
                     "application/json");
 
